@@ -1,4 +1,8 @@
 #Demo Project
 
 In master
-delte
+<<<<<<< HEAD
+
+change in new branch
+
+>>>>>>> newbranch
